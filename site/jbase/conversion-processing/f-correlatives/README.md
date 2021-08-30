@@ -119,7 +119,7 @@ field-number is the value of the field from the current record.
 | NL | Length of the record, in bytes. Includes all field marks but not the key. |
 | NS | Subvalue counter. The ordinal position of the current subvalue within the field. |
 | NV | Value Counter. The ordinal position of the current multivalue within the field. |
-| P | or "Duplicate of entry 1 is pushed onto the stack. |
+| P or " | or "Duplicate of entry 1 is pushed onto the stack. |
 | T | System time in internal format. |
 | V or LPV | Previous Value. The value from the previous format code is to be used. |
 
